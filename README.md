@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Top Down Shooter Using .io<br>👯 I’m looking to collaborate on Pixel Art<br>
+🔭 I’m currently learning Websockets for Multiplayer games <br>👯 I’m looking to collaborate on Pixel Art<br>
 
 
 ## 🌐 Socials:
